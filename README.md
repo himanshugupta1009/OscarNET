@@ -4,4 +4,10 @@ The world is currently in the grips of a trash crisis. It is estimated that the 
 
 Our model OscarNet, named after the garbage loving character from the show Sesame Street, was trained on the dataset that we curated.
 
+Figure 1: Detection of garbage in a park
+![Team member Hunter posing with garbage for OscarNET](https://github.com/himanshugupta1009/OscarNET/blob/master/trash_can_in_park.jpg)
+
+Figure 2: Team meber Hunter posing with garbage for OscarNET
+![Team member Hunter posing with garbage for OscarNET](https://github.com/himanshugupta1009/OscarNET/blob/master/team_member_hunter_posing.png)
+![Team member Hunter posing with garbage for OscarNET](https://github.com/himanshugupta1009/OscarNET/blob/master/team_member_hunter_posing.png)
 ![Team member Hunter posing with garbage for OscarNET](https://github.com/himanshugupta1009/OscarNET/blob/master/team_member_hunter_posing.png)
